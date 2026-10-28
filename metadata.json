@@ -1,0 +1,9 @@
+{
+  "name": "Video Player",
+  "version": "1.0.0",
+  "description": "An offline video player with a futuristic HUD design. Plays local videos in portrait and landscape, with gestures, subtitles, audio tracks, playback speed, picture-in-picture and resume playback.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "containsAds": false,
+  "type": "app"
+}
